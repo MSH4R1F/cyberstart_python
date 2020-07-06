@@ -1,2 +1,4 @@
 # cyberstart_python
-The Python code from Moon Base.
+
+These are the python code I wrote in the Cyberstart Game Moon base portion. They contain so far:
+* Directory scanning (Level 6 Challenge 1)
